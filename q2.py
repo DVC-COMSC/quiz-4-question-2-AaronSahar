@@ -1,6 +1,3 @@
-from pickletools import stringnl
-
-
 string = input("Enter a string, or enter 'stop' or 'STOP' to end the program.")
 shortest = string
 longest = string
